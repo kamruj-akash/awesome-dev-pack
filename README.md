@@ -49,6 +49,7 @@ Install via VS Code Marketplace:
 
 ```sh
 ext install kamruj-akash.awesome-dev-pack
+```
 
 ## You can also change setting.json file
 
@@ -56,7 +57,7 @@ ext install kamruj-akash.awesome-dev-pack
 - Toggle preview (write 'setting.json) an hit enter.
 - remove all codes and paste code from below.
 
-```
+```sh
 
 {
 "workbench.colorTheme": "Omni",
@@ -149,4 +150,3 @@ ext install kamruj-akash.awesome-dev-pack
 ```
 
 **Enjoy!**
-```
