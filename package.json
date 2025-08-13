@@ -1,0 +1,45 @@
+{
+  "name": "awesome-dev-pack",
+  "displayName": "Awesome Dev Pack",
+  "description": "here is some awesome extransion for developer in JavaScript",
+  "publisher": "kamrujakash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamruj-akash/awesome-dev-pack.git"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "adpyke.codesnap",
+    "naumovs.color-highlight",
+    "wallabyjs.console-ninja",
+    "usernamehw.errorlens",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "bradgashler.htmltagwrap",
+    "kisstkondoros.vscode-gutter-preview",
+    "xabikos.javascriptsnippets",
+    "sumitsaha.learn-with-sumit-theme",
+    "ritwickdey.liveserver",
+    "cdfzo.mizu",
+    "christian-kohler.npm-intellisense",
+    "rocketseat.theme-omni",
+    "ionutvmi.path-autocomplete",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "wallabyjs.quokka-vscode",
+    "miguelsolorio.symbols",
+    "bradlc.vscode-tailwindcss",
+    "rangav.vscode-thunder-client",
+    "wayou.vscode-todo-highlight",
+    "chakrounanas.turbo-console-log"
+  ]
+}
